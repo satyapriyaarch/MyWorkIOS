@@ -47,6 +47,7 @@
 		18C04FE21F334A45009384C1 /* MyWorkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyWorkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C04FE61F334A45009384C1 /* MyWorkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWorkUITests.swift; sourceTree = "<group>"; };
 		18C04FE81F334A45009384C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18C04FF41F334B8A009384C1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				18C04FCD1F334A44009384C1 /* Assets.xcassets */,
 				18C04FCF1F334A44009384C1 /* LaunchScreen.storyboard */,
 				18C04FD21F334A44009384C1 /* Info.plist */,
+				18C04FF41F334B8A009384C1 /* GoogleService-Info.plist */,
 			);
 			path = MyWork;
 			sourceTree = "<group>";
