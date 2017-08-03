@@ -14,6 +14,7 @@
 		18C04FD11F334A44009384C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18C04FCF1F334A44009384C1 /* LaunchScreen.storyboard */; };
 		18C04FDC1F334A45009384C1 /* MyWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C04FDB1F334A45009384C1 /* MyWorkTests.swift */; };
 		18C04FE71F334A45009384C1 /* MyWorkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C04FE61F334A45009384C1 /* MyWorkUITests.swift */; };
+		18C04FF51F335026009384C1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18C04FF41F334B8A009384C1 /* GoogleService-Info.plist */; };
 		37AFA30DAA5110118C3248A9 /* Pods_MyWorkUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BDF6466F0806C6EA5B3C2E2 /* Pods_MyWorkUITests.framework */; };
 		40FA36A91C21237FA772BB91 /* Pods_MyWorkTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2EBDD48A991F2880216F146 /* Pods_MyWorkTests.framework */; };
 		F169F0EAAF0F026E877D44FF /* Pods_MyWork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 813EA82E659C398CD210D0A8 /* Pods_MyWork.framework */; };
@@ -281,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18C04FD11F334A44009384C1 /* LaunchScreen.storyboard in Resources */,
+				18C04FF51F335026009384C1 /* GoogleService-Info.plist in Resources */,
 				18C04FCE1F334A44009384C1 /* Assets.xcassets in Resources */,
 				18C04FCC1F334A44009384C1 /* Main.storyboard in Resources */,
 			);
